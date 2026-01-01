@@ -1,4 +1,4 @@
-```
+
 <div align="center">
 
 ## :star2: About Me
@@ -64,7 +64,6 @@ Hi, I'm Abdullah and I like to code! I am a Web Developer and dabble in Machine 
 <br>
 
 </div>
-```
 <!--
 **RajaShahzaibNaseer/RajaShahzaibNaseer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
