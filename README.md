@@ -3,15 +3,14 @@
 
 ## :star2: About Me
 
-Hi, I'm Abdullah and I like to code! I am a Web Developer and dabble in Machine Learning, specifically Computer Vision.
+Hi, I'm Shahzaib Naseer and I like to code! I am a Web Developer and dabble in Machine Learning.
 
 </div>
 
 <div align="center">
 
 ## :globe_with_meridians: Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-ahmed-se/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-hmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzaib-naseer-work/)
 <!-- Add your other social links here -->
 
 <br>
@@ -50,7 +49,6 @@ Hi, I'm Abdullah and I like to code! I am a Web Developer and dabble in Machine 
 
 ### :oil: Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
