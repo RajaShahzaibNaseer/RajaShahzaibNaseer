@@ -13,7 +13,7 @@ Hi, I'm Shahzaib Naseer and I like to code! I am a Web Developer and dabble in M
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzaib-naseer-work/)
 <!-- Add your other social links here -->
 <br>
-## :computer: Tech Stack
+### :computer: Tech Stack
 
 ### :art: Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
